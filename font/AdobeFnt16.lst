@@ -1,0 +1,143 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Minhaz Minar\Desktop\CT\assignment 6\Font\OFL.txt
+FileModTime:1337021516
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Pacifico-Regular
+FamilyName:Pacifico
+StyleName:Regular
+FullName:Pacifico Regular
+MenuName:Pacifico
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Minhaz Minar\Desktop\CT\assignment 6\Font\Pacifico.ttf
+DataFormat:sfntData
+FileLength:43632
+FileModTime:1337021516
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Pacifico Regular
+NameArray:0,Mac,4,Pacifico Regular
+NameArray:0,Win,1,Pacifico
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-Regular
+FamilyName:Proxima Nova
+StyleName:Regular
+FullName:Proxima Nova
+MenuName:Proxima Nova Rg
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Minhaz Minar\Desktop\CT\assignment 6\Font\proxima-nova.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:62923
+FileModTime:1494876614
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Proxima Nova Regular
+NameArray:0,Mac,4,Proxima Nova
+NameArray:0,Win,1,Proxima Nova Rg
+NameArray:0,Win,16,Proxima Nova
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Minhaz Minar\Desktop\CT\assignment 6\Font\font-awesome\fonts\fontawesome-webfont.eot
+FileModTime:1482400234
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Minhaz Minar\Desktop\CT\assignment 6\Font\font-awesome\fonts\fontawesome-webfont.svg
+FileModTime:1482400234
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FontAwesome
+FamilyName:FontAwesome
+StyleName:Regular
+FullName:FontAwesome
+MenuName:FontAwesome
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Minhaz Minar\Desktop\CT\assignment 6\Font\font-awesome\fonts\fontawesome-webfont.ttf
+DataFormat:sfntData
+FileLength:165548
+FileModTime:1482400234
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,FontAwesome
+NameArray:0,Win,1,FontAwesome
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Minhaz Minar\Desktop\CT\assignment 6\Font\font-awesome\fonts\fontawesome-webfont.woff
+FileModTime:1482400234
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Minhaz Minar\Desktop\CT\assignment 6\Font\font-awesome\fonts\fontawesome-webfont.woff2
+FileModTime:1482400234
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FontAwesome
+FamilyName:FontAwesome
+StyleName:Regular
+FullName:FontAwesome
+MenuName:FontAwesome
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Minhaz Minar\Desktop\CT\assignment 6\Font\font-awesome\fonts\FontAwesome.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:134808
+FileModTime:1482400234
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,FontAwesome
+NameArray:0,Win,1,FontAwesome
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Minhaz Minar\Desktop\CT\assignment 6\Font\font-awesome\css\font-awesome.css
+FileModTime:1493213052
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Minhaz Minar\Desktop\CT\assignment 6\Font\font-awesome\css\font-awesome.min.css
+FileModTime:1482400234
+%EndFont
+
